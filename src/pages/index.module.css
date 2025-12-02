@@ -1,23 +1,71 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+/* src/pages/index.module.css */
+/* Styles for the Physical AI Landing Page */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+.homepage-container {
+    max-width: 100%;
+    margin: 0 auto;
 }
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.hero {
+    background-color: #2b3a4a; /* Dark background */
+    color: #fff;
+    padding: 6rem 0;
+    text-align: center;
 }
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+}
+.hero-subtitle {
+    font-size: 1.5rem;
+    color: #00d99a; /* Highlight color */
+    margin-top: -1rem;
+}
+.hero-tagline {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+.hero-actions a {
+    margin: 0 0.5rem;
+}
+.section-container {
+    padding: 4rem 0;
+}
+.section-ai-native {
+    background-color: #f7f7f7;
+}
+.section-ai-native h3 {
+    color: #2b3a4a;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.module-grid {
+    margin-top: 2rem;
+}
+.module-card h3 {
+    color: #1a6245;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+.section-cta {
+    background-color: #1a6245;
+    color: #fff;
+}
+.cta-title {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+.cta-tagline {
+    font-size: 1.2rem;
+    font-style: italic;
+    opacity: 0.8;
+}
+/* Ensure Docusaurus utility classes are available */
+.text--center {
+    text-align: center;
+}
+.mt-3 {
+    margin-top: 1rem;
+}
+.mt-5 {
+    margin-top: 3rem;
 }
