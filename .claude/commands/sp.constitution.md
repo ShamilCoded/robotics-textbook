@@ -2,6 +2,11 @@
 description: Create or update the project constitution from interactive or provided principle inputs, ensuring all dependent templates stay in sync
 ---
 
+<!--
+  IMPORTANT: When creating or updating the project constitution, ensure the content and structure align with the project's overall principles.
+  For example, if "Technical Accuracy" is a principle, the constitution itself should be technically accurate in its descriptions and references.
+-->
+
 ## User Input
 
 ```text

@@ -2,6 +2,15 @@
 description: Create or update the feature specification from a natural language feature description.
 ---
 
+<!--
+  IMPORTANT: When creating or updating the feature specification, ensure it strictly adheres to the project's constitution principles:
+  - Educational Focus: Structure content as a university-level textbook for "Physical AI".
+  - Technical Accuracy: Ensure all ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
+
 ## User Input
 
 ```text

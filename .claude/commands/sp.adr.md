@@ -4,6 +4,15 @@ description: Review planning artifacts for architecturally significant decisions
 
 # COMMAND: Analyze planning artifacts and document architecturally significant decisions as ADRs
 
+<!--
+  IMPORTANT: When identifying architecturally significant decisions, consider the project's constitution principles:
+  - Educational Focus: Structure content as a university-level textbook for "Physical AI".
+  - Technical Accuracy: Ensure all ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
+
 ## CONTEXT
 
 The user has completed feature planning and needs to:

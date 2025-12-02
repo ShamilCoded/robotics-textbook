@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Educational Focus**: Content structured as a university-level textbook for "Physical AI".
+- [ ] **Technical Accuracy**: All ROS 2 and Python code is syntactically correct and follows best practices.
+- [ ] **User Experience**: Content organized using a Docusaurus sidebar for logical module navigation.
+- [ ] **Completeness**: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+- [ ] **Visuals**: Mermaid.js utilized for clear and concise node graphs.
 
 ## Project Structure
 

@@ -2,6 +2,15 @@
 description: Generate a custom checklist for the current feature based on user requirements.
 ---
 
+<!--
+  IMPORTANT: When generating a checklist, ensure items validate requirements against the project's constitution principles:
+  - Educational Focus: Structure content as a university-level textbook for "Physical AI".
+  - Technical Accuracy: Ensure all ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
+
 ## Checklist Purpose: "Unit Tests for English"
 
 **CRITICAL CONCEPT**: Checklists are **UNIT TESTS FOR REQUIREMENTS WRITING** - they validate the quality, clarity, and completeness of requirements in a given domain.

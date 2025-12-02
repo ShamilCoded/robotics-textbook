@@ -1,9 +1,18 @@
 # Feature Specification: [FEATURE NAME]
 
-**Feature Branch**: `[###-feature-name]`  
-**Created**: [DATE]  
-**Status**: Draft  
+**Feature Branch**: `[###-feature-name]`
+**Created**: [DATE]
+**Status**: Draft
 **Input**: User description: "$ARGUMENTS"
+
+<!--
+  IMPORTANT: Ensure this feature specification aligns with the project's constitution principles:
+  - Educational Focus: Content structured as a university-level textbook for "Physical AI".
+  - Technical Accuracy: All ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
 
 ## User Scenarios & Testing *(mandatory)*
 

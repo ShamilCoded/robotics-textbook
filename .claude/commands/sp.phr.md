@@ -4,6 +4,13 @@ description: Record an AI exchange as a Prompt History Record (PHR) for learning
 
 # COMMAND: Record this AI exchange as a structured PHR artifact
 
+<!--
+  IMPORTANT: When recording an AI exchange as a PHR, consider the project's constitution principles
+  to guide the content and summarization. For example, "Educational Focus" may influence how the
+  response and outcome are articulated for clarity and learning, and "Technical Accuracy" should
+  ensure precise details are captured in the PHR.
+-->
+
 ## CONTEXT
 
 The user has just completed work (or is requesting work) and needs to capture this exchange as a Prompt History Record (PHR) for:

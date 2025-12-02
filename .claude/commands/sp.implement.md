@@ -2,6 +2,15 @@
 description: Execute the implementation plan by processing and executing all tasks defined in tasks.md
 ---
 
+<!--
+  IMPORTANT: When executing the implementation plan, strictly adhere to the project's constitution principles:
+  - Educational Focus: Content structured as a university-level textbook for "Physical AI".
+  - Technical Accuracy: Ensure all ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
+
 ## User Input
 
 ```text

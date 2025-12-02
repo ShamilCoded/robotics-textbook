@@ -2,6 +2,15 @@
 description: Identify underspecified areas in the current feature spec by asking up to 5 highly targeted clarification questions and encoding answers back into the spec.
 ---
 
+<!--
+  IMPORTANT: When identifying underspecified areas and formulating clarification questions, consider the project's constitution principles:
+  - Educational Focus: Structure content as a university-level textbook for "Physical AI".
+  - Technical Accuracy: Ensure all ROS 2 and Python code is syntactically correct and follows best practices.
+  - User Experience: Organize content using a Docusaurus sidebar for logical module navigation.
+  - Completeness: Each chapter includes a clear introduction, comprehensive content, and key takeaways.
+  - Visuals: Utilize Mermaid.js for clear and concise node graphs.
+-->
+
 ## User Input
 
 ```text
